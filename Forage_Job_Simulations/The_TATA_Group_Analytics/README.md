@@ -4,7 +4,7 @@ A Forage job simulation: online retail analytics for a CEO and CMO, built in Tab
 ---
 
 ## :clipboard: Project Overview
-In this simulation, I assumed the role of a data analyst for an online retail store. The CEO and CMO needed to understand how the business was performing, where demand was strongest, and which markets and customers offered the best expansion opportunities. This work covered the full analytics process: deciphering the right questions to answer, cleaning the data, building visuals, and presenting the findings to leadership.
+In this simulation, I assumed the role of a data analyst for an online retail store. The CEO and CMO needed to understand how the business was performing, where demand was strongest, and which markets and customers offered the best expansion opportunities. This work covered the full analytics process: deciphering the right questions to answer, cleaning the data, building visuals, and presenting the findings to leadership. <br> 
 For context: The two executives mainly focused on growth, profitability, Geographical Expansion, and customer retention. The CEO looks at the business through the lenses of revenue, market trends, and expansion. The Chief Marketing Officer (CMO) evaluates it from the perspectives of the customers, product demand, and sales. My job was to turn one transactional dataset into clear answers for both, to guide decision-making.
 
 ---
@@ -20,7 +20,8 @@ The TATA Group provided the dataset for this job simulation. It features:
 ## :interrobang: Tasks and approach
 ### Task 1: Framing the Business Scenario
 I drafted eight questions, four for each leader (Both CEO and CMO), reflecting their different priorities.
-      For the CEO (questions around growth, profitability, geography, and business performance):
+
+For the CEO (questions around growth, profitability, geography, and business performance):
 - How has revenue changed over time, and are there clear monthly or seasonal trends that could influence future sales forecasting and business planning?
 - Which countries generate the highest revenue and sales volume, and which international markets show the strongest opportunities for further expansion?
 - How concentrated is the company’s revenue among its top customers, and how dependent is the business on a relatively small number of high-value customers?
