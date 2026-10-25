@@ -16,6 +16,10 @@ The TATA Group provided the dataset for this job simulation. It features:
 - About 536642 rows after cleaning, covering customers in the UK and 35 other countries
 - Key fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
+Here is the link to download the original dataset: [In xlsx format](https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654309626143/Online%20Retail%20Data%20Set.xlsx) <br>
+or <br>
+[In CSV format](https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1775678537166/Online_Retail_Data_Set.csv)
+
 ---
 
 ## :interrobang: Tasks and approach
@@ -88,7 +92,7 @@ Tata_Data_Visualisation/
 ├── README.md
 ├── Data/
 │   ├── Online Retail Data.xlsx
-|   └── Online Retail Data Cleaned.xlsx
+|   └── Online Retail Data Cleaned.zip          *Note that the cleaned dataset is provided as a zipped CSV. Unzip it before opening.*
 ├── Tableau dashboard/
 │   └── Tableau_visualisation.twbx
 └── Images/
