@@ -91,7 +91,7 @@ Tata_Data_Visualisation/
 ├── Data/
 │   ├── Online Retail Data.xlsx
 |   └── Online Retail Data Cleaned.zip          *Note that the cleaned dataset is provided as a zipped CSV. Unzip it before opening.*
-├── Tableau dashboard/
+├── Tableau_Visuals/
 │   └── Tableau_visualisation.twbx
 └── Images/
     ├── 2011 monthly Revenue Time series.png
