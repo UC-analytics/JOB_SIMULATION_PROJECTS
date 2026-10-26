@@ -87,17 +87,17 @@ I recorded a five-minute video for the CEO and CMO explaining the data preparati
 ## Folder Structure
 ```
 Tata_Data_Visualisation/
-├── README.md
 ├── Data/
 │   ├── Online Retail Data.xlsx
 |   └── Online Retail Data Cleaned.zip          *Note that the cleaned dataset is provided as a zipped CSV. Unzip it before opening.*
-├── Tableau_Visuals/
-│   └── Tableau_visualisation.twbx
-└── Images/
+├── Images/
     ├── 2011 monthly Revenue Time series.png
     ├── Product Demand by Country.png
     ├── Top 10 Countries by Revenue.png
     └── Top 10 Customers by Revenue.png
+├── Tableau_Visuals/Images/
+     └── Tableau_visualisation.twbx
+└── README.md
 ```
 ---
 
